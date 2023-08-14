@@ -1,0 +1,10 @@
+{
+  "realm": "uci",
+  "auth-server-url": "https://44.202.228.151:30443/auth",
+  "ssl-required": "external",
+  "resource": "local-dev",
+  "public-client": true,
+  "verify-token-audience": true,
+  "use-resource-role-mappings": true,
+  "confidential-port": 0
+}

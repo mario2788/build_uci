@@ -1,0 +1,15 @@
+{
+  "realm": "uci",
+  "auth-server-url": "https://54.208.148.238:30443/auth",
+  "ssl-required": "external",
+  "resource": "direct_IP",
+  "public-client": true,
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "eH4RWOb74RpOfkrDyIn6ol0dv1rD53k2"
+  },
+  "use-resource-role-mappings": true,
+  "confidential-port": 0,
+  "policy-enforcer": {},
+  "enable-cors": true
+}

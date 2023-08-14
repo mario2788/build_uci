@@ -1,0 +1,14 @@
+{
+  "realm": "uci",
+  "auth-server-url": "https://uci.cysce.com/auth/",
+  "ssl-required": "external",
+  "resource": "web-prueba",
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "a8758110-6aa4-4e27-ae34-6a65d5e9507d"
+  },
+  "use-resource-role-mappings": true,
+  "confidential-port": 0,
+  "policy-enforcer": {},
+  "enable-cors": true
+}
